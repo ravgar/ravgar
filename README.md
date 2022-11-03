@@ -12,7 +12,7 @@ class ravgar {
         this.job = "developer",
         this.weight = "78",
         this.age = "19",
-        this.discord.tag = "ravgar#1000"
+        this.discord.tag = "ravgar#3210"
     };
 }
 
