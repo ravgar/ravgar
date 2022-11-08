@@ -1,5 +1,9 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/898881308468592671?hideDiscrim=true)](https://discord.com/users/898881308468592671)
-
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
+</p>
+ 
 <h2>Ben Kimim</h2>
 
 ```js
