@@ -4,6 +4,7 @@
  Profilimi Ziyaret Eden Kişi Sayısı<br>
   <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
 </p>
+![image](https://user-images.githubusercontent.com/97904458/200911443-f4b6aebf-ade9-4096-bd36-fbfbf2c2ebe9.png)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/898881308468592671?hideDiscrim=true)](https://discord.com/users/898881308468592671)
