@@ -1,5 +1,4 @@
- 
- 
+**İnşallah Sizinde Gerçek Bir Hayatınız,Bilginiz Olur.**
  <p align="center"> 
  Profilimi Ziyaret Eden Kişi Sayısı<br>
   <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
