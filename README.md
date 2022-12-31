@@ -19,14 +19,14 @@
 ```js
 class ravgar {
     constructor(options) {
-        this.name = "Esref",
+        this.name = "Sokucu",
         this.sex = "man",
         this.length = "180",
         this.type = "human",
         this.job = "developer",
         this.weight = "78",
-        this.age = "19",
-        this.discord.tag = "ravgar#3210"
+        this.age = "20",
+        this.discord.tag = "ravgar.#3425"
     };
 }
 
