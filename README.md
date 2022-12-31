@@ -1,6 +1,6 @@
 
  <p align="center"> 
- **Dikizleyen Userlar**<br>
+Tıklanma Sayısı<br>
   
  <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
 </p>
