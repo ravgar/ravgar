@@ -6,7 +6,6 @@ Tıklanma Sayısı<br>
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1049727678091120640?hideDiscrim=true)](https://discord.com/users/1049727678091120640)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/898881308468592671?hideDiscrim=true)](https://discord.com/users/898881308468592671)
 
 
 
