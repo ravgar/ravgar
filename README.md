@@ -29,6 +29,5 @@ class ravgar {
         this.discord.tag = "ravgar.#3425"
     };
 }
-
 module.exports = ravgar
 ```
