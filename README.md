@@ -1,6 +1,6 @@
 
  <p align="center"> 
-Tıklanma Sayısı<br>
+Profili Gezen Kişi Sayısı<br>
   
  <img src="https://profile-counter.glitch.me/ravgar/count.svg" />
 </p>
