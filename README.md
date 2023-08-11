@@ -19,14 +19,14 @@ Profili Gezen Kişi Sayısı<br>
 ```js
 class ravgar {
     constructor(options) {
-        this.name = "Sokucu",
+        this.name = "ravgar",
         this.sex = "man",
-        this.length = "180",
+        this.length = "1.80",
         this.type = "human",
         this.job = "developer",
-        this.weight = "78",
+        this.weight = "77",
         this.age = "20",
-        this.discord.tag = "ravgar.#3425"
+        this.discord.tag = "ravgar"
     };
 }
 module.exports = ravgar
